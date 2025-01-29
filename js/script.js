@@ -1,6 +1,6 @@
 // TODO: 1. Определить стартовое положение змейки
 let foodX, foodY;
-let snakeX = 6, snakeY = 6;
+let snakeX = 5, snakeY = 5;
 let velocityX = 0, velocityY = 0;
 let snakeBody = [];
 let score = 0;
